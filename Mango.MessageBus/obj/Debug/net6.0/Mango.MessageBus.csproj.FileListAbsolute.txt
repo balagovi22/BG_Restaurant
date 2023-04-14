@@ -1,0 +1,12 @@
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.csproj.AssemblyReference.cache
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.AssemblyInfoInputs.cache
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.AssemblyInfo.cs
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\bin\Debug\net6.0\Mango.MessageBus.deps.json
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\bin\Debug\net6.0\Mango.MessageBus.dll
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\bin\Debug\net6.0\Mango.MessageBus.pdb
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.dll
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\obj\Debug\net6.0\refint\Mango.MessageBus.dll
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.pdb
+C:\Users\balaji\source\repos\BG_Restaurant\Mango.MessageBus\obj\Debug\net6.0\ref\Mango.MessageBus.dll

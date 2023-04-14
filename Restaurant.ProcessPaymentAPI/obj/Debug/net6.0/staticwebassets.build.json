@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kw9AEgzhdsnWyhVRCl/Ah5AA2VRE6n2fXY25veYqN4Q=",
+  "Source": "Restaurant.ProcessPaymentAPI",
+  "BasePath": "_content/Restaurant.ProcessPaymentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

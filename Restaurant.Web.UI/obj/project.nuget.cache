@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAUvnPTGsXXX6X1k4wZPgLH/j2Sm10hJeLyRM/rKAep5lFaKKPPZiX4Od632ff2lVpMovCqRfW24IXEemvgmdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balaji\\source\\repos\\BG_Restaurant\\Restaurant.Web.UI\\Restaurant.Web.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balaji\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
